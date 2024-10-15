@@ -208,7 +208,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## **Contact**
-For any questions or issues, please feel free to reach out at your-email@example.com.
+For any questions or issues, please feel free to reach out at shashanksingh9694@gmail.com.
 
 ---
 
